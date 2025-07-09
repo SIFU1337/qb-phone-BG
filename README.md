@@ -14,7 +14,7 @@
 bash
 Copy
 Edit
-git clone https://github.com/ТВОЕТО_ПОТРЕБИТЕЛСКО_ИМЕ/qb-phone-bg.git
+git clone https://github.com/SIFU1337/qb-phone-BG.git
 Замени съществуващите езикови файлове в твоя qb-phone ресурс с тези от този репозиторий.
 
 Рестартирай сървъра.
